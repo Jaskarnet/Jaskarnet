@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💼 Backend Developer sharing my journey in tech<br>🎓 Studied Computer Engineering at the University of Science and Technology in Wroclaw<br>🔭 Currently building a tool to optimize labbing options for defense in Tekken, along with a website to share insights<br>🌱 Learning frontend development with Angular<br>💬 Open to job opportunities – feel free to reach out!<br>⚡ Fun fact: I once represented Poland in the European Tekken Cup (it didn’t go so well 😅)
+🧑‍💼 Backend Developer sharing my journey in tech<br>🎓 Studied Computer Engineering at the University of Science and Technology in Wroclaw<br>🔭 Currently building a tool to optimize labbing options for defense in Tekken, along with a website to share insights<br>🌱 Learning frontend development with Angular<br>💬 Open to job opportunities – feel free to reach out!<br>⚡ Fun fact: I once represented Poland in the European Tekken Cup
 
 
 ## 🌐 Socials:
